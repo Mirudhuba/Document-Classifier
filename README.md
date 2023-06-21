@@ -4,7 +4,7 @@ Different classification models are built to classify documents into different c
 
 TAX, AGREEMENTS, VALUATION, HUMAN RESOURCES, DEEDS
 
-MODELING AND ANALYSIS:
+Modeling and analysis:
 
 ➔ Function to extract the textual data from PDFs
 

@@ -16,8 +16,8 @@ Modeling and analysis:
 
 ➔ Building different models for the classification of the documents
 
-       ● Random Forest Classifier
+● Random Forest Classifier
        
-       ● Naive Bayes Classifier
+● Naive Bayes Classifier
        
-       ● XGBoost Classifier
+● XGBoost Classifier
